@@ -10,8 +10,10 @@ Celý námět si bere inspiraci ze hry jump king.
 2. Samotné vizuální podklady vytvořené ve stylu pixelartu (včetně snímků nedokončených animací)
 3. Zvukové efekty hodící se do potencionální hry.
 4. Originální soubory ve formátu .kra, což je základní formát programu Krita
-5. Readme
-6. Krátká prezentace představující assety a výsledný náhled na potenciální prostředí hry
+5. Stínové bloky, které tvoří fyzické podklady pro plošiny
+6. Tlačítka nastavení
+7. Readme
+8. Krátká prezentace představující assety a výsledný náhled na potenciální prostředí hry
    
 ## O čem je hra?
 Jedná se o jednoduchou skákačku s primitivním příběhem. 
