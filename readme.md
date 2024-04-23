@@ -18,3 +18,5 @@ Hrajete za malého robůtka s triskou a snažíte se vyskákat co nejvíše. Po 
 ## Implementace
 
 Hra se dá implementovat dvěma hlavními způsoby uvládání. První pomocí kláves/ displeje mobilu, nebo pomocí pohybu miši/naklonění mobilu.
+Mocup obsahuje i základní design inventáře, který může být použit pro základní mechnku sbírání fuze. 
+Každý blok určený jako základna pro skoky, se chová trochu jinak. Futuristicky vypadající by se měla pohybovat ze strany na stranu a zezhora dolů. Platforma s květinou by následně měla fungovat jako nestabilní blok, který se rozpadá. 
