@@ -11,7 +11,7 @@ Celý námět si bere inspiraci ze hry jump king.
 3. Zvukové efekty hodící se do potencionální hry.
 4. Originální soubory ve formátu .kra, což je základní formát programu Krita
 5. Readme
-6. Krátká prezentace představující assety a výsledný nýhled na potencionální prostředí hry
+6. Krátká prezentace představující assety a výsledný náhled na potenciální prostředí hry
    
 ## O čem je hra?
 Jedná se o jednoduchou skákačku s primitivním příběhem. 
