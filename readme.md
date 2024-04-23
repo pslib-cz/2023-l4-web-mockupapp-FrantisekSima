@@ -1,6 +1,7 @@
 ## Vítejte v mém mockupu
 Tento mockup byl vytvořen, aby sloužil jako podklady pro budoucí praktické zadání, týkající se programování jednoduché hry.
 Soubory v tomto mockupu obsahují vizuální podklady pro vytvoření krátké hry.
+Celý námět si bere inspiraci ze hry jump king.
 
 
 ## Obsah
@@ -10,6 +11,7 @@ Soubory v tomto mockupu obsahují vizuální podklady pro vytvoření krátké h
 3. Zvukové efekty hodící se do potencionální hry.
 4. Originální soubory ve formátu .kra, což je základní formát programu Krita
 5. Readme
+6. Krátká prezentace představující assety a výsledný nýhled na potencionální prostředí hry
    
 ## O čem je hra?
 Jedná se o jednoduchou skákačku s primitivním příběhem. 
